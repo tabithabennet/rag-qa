@@ -1,0 +1,13 @@
+numpy==1.26.4
+pyarrow==14.0.2
+datasets==2.18.0
+transformers==4.39.3
+accelerate==0.28.0
+evaluate==0.4.1
+peft==0.9.0
+sentence-transformers==2.6.1
+faiss-cpu
+umap-learn
+matplotlib
+seaborn
+tqdm
